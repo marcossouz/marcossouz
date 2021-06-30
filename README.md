@@ -1,7 +1,6 @@
 <h2 align="center">Hello there! My name is Marcos Souza. 👋</h2><br><br>
-<p align="center">I'm team lead develop and full stack web developer. My passion for software is dreaming up ideas and making them come true.
-
-When I'm not developing and programming, you can find me playing keyboard, guitar or talking to my friends about anything.
+<p align="center">I'm team lead develop and full stack web developer. My passion for software is dreaming up ideas and making them come true.</p>
+<p align="center">When I'm not developing and programming, you can find me playing keyboard, guitar or talking to my friends about anything.
 </p>
 
 <p align="center">
