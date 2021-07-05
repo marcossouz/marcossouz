@@ -6,6 +6,9 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcossouzadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://gitlab.com/marcossouza"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://bitbucket.org/marcossouz/"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
+  
 </p>
 
 <hr>
