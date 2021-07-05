@@ -41,7 +41,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
-- <img src="https://progress-bar.dev/0?title=Jul-2021" /> -> <a href="#">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
+- <img src="https://progress-bar.dev/2?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Next.js-React-cod3r">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
 - <img src="https://progress-bar.dev/25?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React </a>
 - <img src="https://progress-bar.dev/23?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
 - <img src="https://progress-bar.dev/53?title=May-2021" /> -> <a href="https://github.com/marcossouz/vueJS2">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
