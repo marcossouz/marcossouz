@@ -4,7 +4,7 @@
 When I'm not developing and programming, you can find me playing keyboard, guitar or talking to my friends about anything.
 </p>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/marcossouzadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
