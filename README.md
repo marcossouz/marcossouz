@@ -35,6 +35,27 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
+<h2>Projects and courses</h2>
+<p align="center">
+
+- <img src="https://progress-bar.dev/0?title=Jul 05, 2021" /> -> <a href="#">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
+- <img src="https://progress-bar.dev/25?title=Jul 03, 2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React </a>
+- <img src="https://progress-bar.dev/23?title=Jul 03, 2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
+- <img src="https://progress-bar.dev/53?title=May 09, 2021" /> -> <a href="https://github.com/marcossouz/vueJS2-curso1">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
+- <img src="https://progress-bar.dev/50?title=Oct 01, 2020" /> -> <a href="https://github.com/marcossouz/api-nodejs-mongodb">Construindo uma API com Node.js</a>
+- <img src="https://progress-bar.dev/100?title=Jun 28, 2021" /> -> <a href="https://github.com/marcossouz/escola-api">API com Django 3: Django Rest Framework</a>
+- <img src="https://progress-bar.dev/100?title=Mar 6, 2021" /> -> <a href="https://github.com/marcossouz/calculadora-with-flutter">calculadora-with-flutter</a>
+- <img src="https://progress-bar.dev/100?title=Mar 6, 2021" /> -> <a href="https://github.com/marcossouz/crud-flutter">crud-flutter</a>
+- <img src="https://progress-bar.dev/100?title=Jul 02, 2021" /> -> <a href="https://github.com/marcossouz/lets-code-santander-2a-fase">Lets-code-santander-2a-fase </a>
+- <img src="https://progress-bar.dev/99?title=Dec 27, 2020" /> -> <a href="https://github.com/marcossouz/todo-api">Todo Api</a>
+- <img src="https://progress-bar.dev/100?title=Oct 18, 2020" /> -> <a href="https://github.com/marcossouz/docker-flask-vue-nginx">docker-flask-vue-nginx</a>
+- <img src="https://progress-bar.dev/99?title=Oct 1, 2020" /> -> <a href="https://github.com/marcossouz/api-flask-mongodb">api-flask-mongodb</a>
+- <img src="https://progress-bar.dev/99?title=Sep 26, 2020" /> -> <a href="https://github.com/marcossouz/django-mongodb">django-mongodb</a>
+- <img src="https://progress-bar.dev/100?title=Jul 10, 2019" /> -> <a href="https://github.com/marcossouz/fundamentos_django2.0">Django 2.0 - Aprendendo os conceitos fundamentais</a>
+- <img src="https://progress-bar.dev/100?title=Aug 24, 2019" /> -> <a href="https://github.com/marcossouz/django-rest-framework">Criando poderosas API's RESTful com Django Rest Framework</a>
+- <img src="https://progress-bar.dev/100?title=Nov 7, 2018" /> -> <a href="https://github.com/marcossouz/chat-node">Chat com Node.js</a>
+</p>
+
 <h2>Tools</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
