@@ -1,10 +1,11 @@
-<h2 align="center">Hello there! My name is Marcos Souza. 👋</h2><br><br>
-<p align="center">I'm team lead develop and full stack web developer. My passion for software is dreaming up ideas and making them come true.</p>
-<p align="center">When I'm not developing and programming, you can find me playing keyboard, guitar or talking to my friends about anything.
+<h2 align="center">Hello there! My name is Marcos Souza. 👋</h2>
+<p align="center">I'm team lead develop and full stack web developer. My passion for software is dreaming up ideas and making them come true.
+
+When I'm not developing and programming, you can find me playing keyboard, guitar or talking to my friends about anything.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marcossouzadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=25></a>
+<a href="https://www.linkedin.com/in/marcossouzadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 <hr>
@@ -17,20 +18,11 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<h2 align="center">New Skills</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <h2>Tools</h2>
@@ -55,8 +47,17 @@
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
-<br><br><br><br>
+
 </p>
+
+<hr>
+
+## My Github's statistics
+
 <p align=center>
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=marcossouz&show_icons=true&theme=white">
+<img align=center src="https://github-readme-stats.vercel.app/api?username=marcossouz&show_icons=true&theme=dark" />
+<img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossouz&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
+  </a>
 </p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=marcossouz&theme=xcode" />
