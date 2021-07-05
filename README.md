@@ -38,6 +38,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
+- <img src="https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$" />
 - <img src="https://progress-bar.dev/0?title=Jul 05, 2021" /> -> <a href="#">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
 - <img src="https://progress-bar.dev/25?title=Jul 03, 2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React </a>
 - <img src="https://progress-bar.dev/23?title=Jul 03, 2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
