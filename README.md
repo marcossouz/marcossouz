@@ -4,7 +4,7 @@
 When I'm not developing and programming, you can find me playing keyboard, guitar or talking to my friends about anything.
 </p>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/marcossouzadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
@@ -25,7 +25,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h2 align="center">New Skills</h2>
+<h2>New Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
