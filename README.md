@@ -64,7 +64,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 ## My Github's statistics
 
 <p align=center>
-<img align=center src="https://github-readme-stats.vercel.app/api?username=marcossouz&show_icons=true&theme=dark" />
+<img height=220 align=center src="https://github-readme-stats.vercel.app/api?username=marcossouz&show_icons=true&theme=dark" />
 <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossouz&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
   </a>
 </p>
