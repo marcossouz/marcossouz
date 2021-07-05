@@ -39,11 +39,11 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <p align="center">
 
 - <img src="https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$" />
-- <img src="https://progress-bar.dev/0?title=Jul 05, 2021" /> -> <a href="#">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
-- <img src="https://progress-bar.dev/25?title=Jul 03, 2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React </a>
-- <img src="https://progress-bar.dev/23?title=Jul 03, 2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
-- <img src="https://progress-bar.dev/53?title=May 09, 2021" /> -> <a href="https://github.com/marcossouz/vueJS2-curso1">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
-- <img src="https://progress-bar.dev/50?title=Oct 01, 2020" /> -> <a href="https://github.com/marcossouz/api-nodejs-mongodb">Construindo uma API com Node.js</a>
+- <img src="https://progress-bar.dev/0?title=Jul-05-2021" /> -> <a href="#">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
+- <img src="https://progress-bar.dev/25?title=Jul-03-2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React </a>
+- <img src="https://progress-bar.dev/23?title=Jul-03-2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
+- <img src="https://progress-bar.dev/53?title=May-09-2021" /> -> <a href="https://github.com/marcossouz/vueJS2-curso1">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
+- <img src="https://progress-bar.dev/50?title=Oct-01-2020" /> -> <a href="https://github.com/marcossouz/api-nodejs-mongodb">Construindo uma API com Node.js</a>
 - <img src="https://progress-bar.dev/100?title=Jun 28, 2021" /> -> <a href="https://github.com/marcossouz/escola-api">API com Django 3: Django Rest Framework</a>
 - <img src="https://progress-bar.dev/100?title=Mar 6, 2021" /> -> <a href="https://github.com/marcossouz/calculadora-with-flutter">calculadora-with-flutter</a>
 - <img src="https://progress-bar.dev/100?title=Mar 6, 2021" /> -> <a href="https://github.com/marcossouz/crud-flutter">crud-flutter</a>
