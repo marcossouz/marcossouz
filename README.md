@@ -42,6 +42,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <p align="center">
 
 - <img src="https://progress-bar.dev/3?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Next.js-React-cod3r">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
+- <img src="https://progress-bar.dev/10?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/React-Native-com-Hooks-e-Context-API-Cadastro-Completo">React Native com Hooks e Context API - Cadastro Completo!</a>
 - <img src="https://progress-bar.dev/38?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React </a>
 - <img src="https://progress-bar.dev/23?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
 - <img src="https://progress-bar.dev/53?title=May-2021" /> -> <a href="https://github.com/marcossouz/vueJS2">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
