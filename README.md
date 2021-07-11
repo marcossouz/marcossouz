@@ -41,7 +41,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
-- <img src="https://progress-bar.dev/1?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/bootcamp-localizalabs-react-developer">Bootcamp LocalizaLabs React Developer</a>
+- <img src="https://progress-bar.dev/12?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/bootcamp-localizalabs-react-developer">Bootcamp LocalizaLabs React Developer</a>
 - <img src="https://progress-bar.dev/3?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Next.js-React-cod3r">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
 - <img src="https://progress-bar.dev/15?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/react-native-com-hooks-e-context-API">React Native com Hooks e Context API - Cadastro Completo!</a>
 - <img src="https://progress-bar.dev/38?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React </a>
