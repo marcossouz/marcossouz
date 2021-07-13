@@ -49,7 +49,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 - <img src="https://progress-bar.dev/23?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
 - <img src="https://progress-bar.dev/53?title=May-2021" /> -> <a href="https://github.com/marcossouz/vueJS2">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
 - <img src="https://progress-bar.dev/20?title=jul-2021" /> -> <a href="https://github.com/marcossouz/imersao-react-3a-edicao">Alurakut: Imersão React - 3a Edicão</a>
-- <img src="https://progress-bar.dev/100?title=jul-2021" /> -> <a href="https://github.com/marcossouz/mentions-api">Mentions API - com Node.js</a>
+- <img src="https://progress-bar.dev/99?title=jul-2021" /> -> <a href="https://github.com/marcossouz/mentions-api">Mentions API - com Node.js</a>
 - <img src="https://progress-bar.dev/100?title=Jun-2021" /> -> <a href="https://github.com/marcossouz/escola-api">API com Django 3: Django Rest Framework</a>
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/calculadora-with-flutter">calculadora-with-flutter</a>
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/crud-flutter">crud-flutter</a>
