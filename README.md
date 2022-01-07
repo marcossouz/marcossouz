@@ -36,6 +36,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 
 <h2>Projects and courses</h2>
 <p align="center">
+  
 - <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="https://github.com/marcossouz">TODO - Django tenants</a>
 - <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="https://github.com/marcossouz">Scrapyng com Elasticsearch</a>
 - <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="https://github.com/marcossouz">apache airflow</a>
