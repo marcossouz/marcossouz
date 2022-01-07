@@ -36,9 +36,9 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 
 <h2>Projects and courses</h2>
 <p align="center">
-- <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="#">TODO - Django tenants</a>
-- <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="#">Scrapyng com Elasticsearch</a>
-- <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="#">apache airflow</a>
+- <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="https://github.com/marcossouz">TODO - Django tenants</a>
+- <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="https://github.com/marcossouz">Scrapyng com Elasticsearch</a>
+- <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="https://github.com/marcossouz">apache airflow</a>
 - <img src="https://progress-bar.dev/35?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/bootcamp-localizalabs-react-developer">Bootcamp LocalizaLabs React Developer - DIO</a>
 - <img src="https://progress-bar.dev/100?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/HTML-Web-Developer">Bootcamp HTML Web Developer - DIO</a> | | <a href="https://certificates.digitalinnovation.one/1F13E3CB"> Certificado </a>
 - <img src="https://progress-bar.dev/7?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/freecodecamp-frontend-development-libraries">Front End Development Libraries</a>
