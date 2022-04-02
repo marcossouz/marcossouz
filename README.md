@@ -37,23 +37,23 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
+- <img src="https://progress-bar.dev/09?title=Apr-2022" /> -> <a href="">Integração Contínua com Python: Uma Introdução</a>
+- <img src="https://progress-bar.dev/100?title=Jan-2022" /> -> <a href="https://github.com/marcossouz/todo-django-tenants">TODO - Django tenants</a>
 - <img src="https://progress-bar.dev/0?title=Jan-2022" /> -> <a href="https://github.com/marcossouz/apache-airflow-basic">apache airflow</a>
+- <img src="https://progress-bar.dev/100?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/HTML-Web-Developer">Bootcamp HTML Web Developer - DIO</a> | | <a href="https://certificates.digitalinnovation.one/1F13E3CB"> Certificado </a>
 - <img src="https://progress-bar.dev/35?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/bootcamp-localizalabs-react-developer">Bootcamp LocalizaLabs React Developer - DIO</a>
 - <img src="https://progress-bar.dev/7?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/freecodecamp-frontend-development-libraries">Front End Development Libraries</a>
 - <img src="https://progress-bar.dev/47?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/Next.js-React-cod3r">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
+- <img src="https://progress-bar.dev/100?title=jul-2021" /> -> <a href="https://github.com/marcossouz/imersao-react-3a-edicao">Alurakut: Imersão React - 3a Edicão</a>
+- <img src="https://progress-bar.dev/100?title=jul-2021" /> -> <a href="https://github.com/marcossouz/mentions-api">Mentions API - com Node.js</a>
+- <img src="https://progress-bar.dev/100?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/lets-code-santander-2a-fase">Lets-code-santander-2a-fase </a>
 - <img src="https://progress-bar.dev/20?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/react-native-com-hooks-e-context-API">React Native com Hooks e Context API - Cadastro Completo!</a>
 - <img src="https://progress-bar.dev/38?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React (Livro) </a>
 - <img src="https://progress-bar.dev/23?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
-- <img src="https://progress-bar.dev/53?title=May-2021" /> -> <a href="https://github.com/marcossouz/vueJS2">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
-- <img src="https://progress-bar.dev/09?title=Apr-2022" /> -> <a href="">Integração Contínua com Python: Uma Introdução</a>
-- <img src="https://progress-bar.dev/100?title=Jan-2022" /> -> <a href="https://github.com/marcossouz/todo-django-tenants">TODO - Django tenants</a>
-- <img src="https://progress-bar.dev/100?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/HTML-Web-Developer">Bootcamp HTML Web Developer - DIO</a> | | <a href="https://certificates.digitalinnovation.one/1F13E3CB"> Certificado </a>
-- <img src="https://progress-bar.dev/100?title=jul-2021" /> -> <a href="https://github.com/marcossouz/imersao-react-3a-edicao">Alurakut: Imersão React - 3a Edicão</a>
-- <img src="https://progress-bar.dev/100?title=jul-2021" /> -> <a href="https://github.com/marcossouz/mentions-api">Mentions API - com Node.js</a>
 - <img src="https://progress-bar.dev/100?title=Jun-2021" /> -> <a href="https://github.com/marcossouz/escola-api">API com Django 3: Django Rest Framework</a>
+- <img src="https://progress-bar.dev/53?title=May-2021" /> -> <a href="https://github.com/marcossouz/vueJS2">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/calculadora-with-flutter">calculadora-with-flutter</a>
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/crud-flutter">crud-flutter</a>
-- <img src="https://progress-bar.dev/100?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/lets-code-santander-2a-fase">Lets-code-santander-2a-fase </a>
 - <img src="https://progress-bar.dev/100?title=Dec-2020" /> -> <a href="https://github.com/marcossouz/todo-api">Todo Api</a>
 - <img src="https://progress-bar.dev/100?title=Oct-2020" /> -> <a href="https://github.com/marcossouz/docker-flask-vue-nginx">docker-flask-vue-nginx</a>
 - <img src="https://progress-bar.dev/100?title=Oct-2020" /> -> <a href="https://github.com/marcossouz/api-flask-mongodb">api-flask-mongodb</a>
