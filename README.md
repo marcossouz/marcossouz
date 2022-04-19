@@ -39,8 +39,8 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/docker-kubernetes-rancher">DevOps Ninja: Docker, Kubernetes e Rancher</a> | | <a href="https://www.udemy.com/certificate/UC-911a1370-5c85-4fc3-a895-97ac3046fb2d/"> Certificado </a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/python-continuous-integration-basic">Integração Contínua com Python: Uma Introdução</a>
-- <img src="https://progress-bar.dev/100?title=Jan-2022" /> -> <a href="https://github.com/marcossouz/todo-django-tenants">TODO - Django tenants</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/apache-airflow-basic">apache airflow</a> | | <a href="https://www.udemy.com/certificate/UC-911a1370-5c85-4fc3-a895-97ac3046fb2d/"> Certificado </a>
+- <img src="https://progress-bar.dev/100?title=Jan-2022" /> -> <a href="https://github.com/marcossouz/todo-django-tenants">TODO - Django tenants</a>
 - <img src="https://progress-bar.dev/100?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/HTML-Web-Developer">Bootcamp HTML Web Developer - DIO</a> | | <a href="https://certificates.digitalinnovation.one/1F13E3CB"> Certificado </a>
 - <img src="https://progress-bar.dev/35?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/bootcamp-localizalabs-react-developer">Bootcamp LocalizaLabs React Developer - DIO</a>
 - <img src="https://progress-bar.dev/7?title=Aug-2021" /> -> <a href="https://github.com/marcossouz/freecodecamp-frontend-development-libraries">Front End Development Libraries</a>
