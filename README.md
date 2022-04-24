@@ -95,7 +95,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 - <img src="https://progress-bar.dev/100?title=Oct-2020" /> -> <a href="https://github.com/marcossouz/api-flask-mongodb">api-flask-mongodb</a>
 - <img src="https://progress-bar.dev/100?title=Sep-2020" /> -> <a href="https://github.com/marcossouz/django-mongodb">django-mongodb</a>
 - <img src="https://progress-bar.dev/100?title=Jul-2019" /> -> <a href="https://github.com/marcossouz/fundamentos_django2.0">Django 2.0 - Aprendendo os conceitos fundamentais</a>
-- <img src="https://progress-bar.dev/100?title=Aug-2019" /> -> <a href="https://github.com/marcossouz/django-rest-framework">Criando poderosas API's RESTful com Django Rest Framework</a>
+- <img src="https://progress-bar.dev/100?title=Aug-2019" /> -> <a href="https://github.com/marcossouz/django-rest-framework">Criando poderosas API's RESTful com Django Rest Framework</a> | | <a href="https://www.udemy.com/certificate/UC-VA9W592F/"> Certificado </a> 
 - <img src="https://progress-bar.dev/100?title=Nov-2018" /> -> <a href="https://github.com/marcossouz/chat-node">Chat em tempo real com NodeJS + Socket.io</a>
 </p>
 
