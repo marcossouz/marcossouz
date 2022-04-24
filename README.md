@@ -90,7 +90,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 - <img src="https://progress-bar.dev/53?title=May-2021" /> -> <a href="https://github.com/marcossouz/vueJS2">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/calculadora-with-flutter">calculadora-with-flutter</a>
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/crud-flutter">crud-flutter</a>
-- <img src="https://progress-bar.dev/100?title=Dec-2020" /> -> <a href="https://github.com/marcossouz/todo-api">Todo Api</a>
+- <img src="https://progress-bar.dev/100?title=Dec-2020" /> -> <a href="https://github.com/marcossouz/todo-api">Todo API With Django Rest Framework</a>
 - <img src="https://progress-bar.dev/100?title=Oct-2020" /> -> <a href="https://github.com/marcossouz/docker-flask-vue-nginx">Docker (docker-compose) + Flask + VueJs + Nginx</a>
 - <img src="https://progress-bar.dev/100?title=Sep-2020" /> -> <a href="https://github.com/marcossouz/django-mongodb">MongoDB + Django Rest Framework + Vue.js 2 with Vue Router & Axios</a>
 - <img src="https://progress-bar.dev/100?title=Jul-2019" /> -> <a href="https://github.com/marcossouz/fundamentos_django2.0">Django 2.0 - Aprendendo os conceitos fundamentais</a>
