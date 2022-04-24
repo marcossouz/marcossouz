@@ -92,7 +92,6 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/crud-flutter">crud-flutter</a>
 - <img src="https://progress-bar.dev/100?title=Dec-2020" /> -> <a href="https://github.com/marcossouz/todo-api">Todo Api</a>
 - <img src="https://progress-bar.dev/100?title=Oct-2020" /> -> <a href="https://github.com/marcossouz/docker-flask-vue-nginx">docker-flask-vue-nginx</a>
-- <img src="https://progress-bar.dev/100?title=Oct-2020" /> -> <a href="https://github.com/marcossouz/api-flask-mongodb">api-flask-mongodb</a>
 - <img src="https://progress-bar.dev/100?title=Sep-2020" /> -> <a href="https://github.com/marcossouz/django-mongodb">MongoDB + Django Rest Framework + Vue.js 2 with Vue Router & Axios</a>
 - <img src="https://progress-bar.dev/100?title=Jul-2019" /> -> <a href="https://github.com/marcossouz/fundamentos_django2.0">Django 2.0 - Aprendendo os conceitos fundamentais</a>
 - <img src="https://progress-bar.dev/100?title=Aug-2019" /> -> <a href="https://github.com/marcossouz/django-rest-framework">Criando poderosas API's RESTful com Django Rest Framework</a> | | <a href="https://www.udemy.com/certificate/UC-VA9W592F/"> Certificado </a> 
