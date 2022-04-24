@@ -14,17 +14,19 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <hr>
 <h2>Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 </p>
 
 <h2>New Skills</h2>
@@ -37,6 +39,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
+- <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/microservices-fastapi">Microsserviço em Python usando FastAPI</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/docker-kubernetes-rancher">DevOps Ninja: Docker, Kubernetes e Rancher</a> | | <a href="https://www.udemy.com/certificate/UC-c49b3724-e592-44ee-97db-26183fece69d/"> Certificado </a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/python-continuous-integration-basic">Integração Contínua com Python: Uma Introdução</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/apache-airflow-basic">apache airflow</a> | | <a href="https://www.udemy.com/certificate/UC-911a1370-5c85-4fc3-a895-97ac3046fb2d/"> Certificado </a>
