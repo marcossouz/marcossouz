@@ -85,7 +85,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 - <img src="https://progress-bar.dev/100?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/lets-code-santander-2a-fase">Lets-code-santander-2a-fase </a>
 - <img src="https://progress-bar.dev/20?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/react-native-com-hooks-e-context-API">React Native com Hooks e Context API - Cadastro Completo!</a>
 - <img src="https://progress-bar.dev/38?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/reactbook">Primeiros passos com React (Livro) </a>
-- <img src="https://progress-bar.dev/23?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
+- <img src="https://progress-bar.dev/30?title=Jul-2021" /> -> <a href="https://github.com/marcossouz/Django-TDD">TDD com python </a>
 - <img src="https://progress-bar.dev/100?title=Jun-2021" /> -> <a href="https://github.com/marcossouz/escola-api">API com Django 3: Django Rest Framework</a>
 - <img src="https://progress-bar.dev/53?title=May-2021" /> -> <a href="https://github.com/marcossouz/vueJS2">Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex) </a>
 - <img src="https://progress-bar.dev/100?title=Mar-2021" /> -> <a href="https://github.com/marcossouz/calculadora-with-flutter">Calculator with flutter</a>
