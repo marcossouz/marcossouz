@@ -71,7 +71,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
-- <img src="https://progress-bar.dev/100?title=May-2022" /> -> <a href="https://github.com/marcossouz/kubernetes"> KUBERNETES: PODS, SERVICES, CONFIGMAPS, DEPLOYMENTS, VOLUMES E ESCALABILIDADE</a>
+- <img src="https://progress-bar.dev/100?title=May-2022" /> -> <a href="https://github.com/marcossouz/kubernetes"> Kubernetes: Pods, Services, Configmaps, Deployments, Volumes e Escalabilidade</a> | | Certificados <a href="https://cursos.alura.com.br/certificate/5364e747-db3e-4dc5-8773-bdf1bd1fb392">Parte 1</a> | | <a href="https://cursos.alura.com.br/certificate/ad785a1c-443d-4921-868d-75f69aaaf4f5">Parte 2</a>
  - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/microservices-fastapi">Microsserviço em Python usando FastAPI</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/docker-kubernetes-rancher">DevOps Ninja: Docker, Kubernetes e Rancher</a> | | <a href="https://www.udemy.com/certificate/UC-c49b3724-e592-44ee-97db-26183fece69d/"> Certificado </a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/python-continuous-integration-basic">Integração Contínua com Python: Uma Introdução</a>
