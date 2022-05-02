@@ -71,7 +71,8 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
-- <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/microservices-fastapi">Microsserviço em Python usando FastAPI</a>
+- <img src="https://progress-bar.dev/100?title=May-2022" /> -> <a href="https://github.com/marcossouz/kubernetes"> KUBERNETES: PODS, SERVICES, CONFIGMAPS, DEPLOYMENTS, VOLUMES E ESCALABILIDADE</a>
+ - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/microservices-fastapi">Microsserviço em Python usando FastAPI</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/docker-kubernetes-rancher">DevOps Ninja: Docker, Kubernetes e Rancher</a> | | <a href="https://www.udemy.com/certificate/UC-c49b3724-e592-44ee-97db-26183fece69d/"> Certificado </a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/python-continuous-integration-basic">Integração Contínua com Python: Uma Introdução</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/apache-airflow-basic">apache airflow</a> | | <a href="https://www.udemy.com/certificate/UC-911a1370-5c85-4fc3-a895-97ac3046fb2d/"> Certificado </a>
