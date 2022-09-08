@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Marcos Souza. 👋</h2>
-<p align="center">I'm Engineer Software and Software engineering technical leader. My passion for software is dreaming up ideas and making them come true.
+<p align="center">I'm Engineer Software and Tech Lead. My passion for software is dreaming up ideas and making them come true.
 When I'm not developing and programming, you can find me playing keyboard, guitar or talking to my friends about anything.
 </p>
 
