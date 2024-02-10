@@ -61,7 +61,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 
 <h2>New Skills</h2>
 <p align="center">
-<img src="[https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 <h2>Projects and courses</h2>
