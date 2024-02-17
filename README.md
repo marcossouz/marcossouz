@@ -72,7 +72,7 @@ When I'm not developing and programming, you can find me playing keyboard, guita
 <h2>Projects and courses</h2>
 <p align="center">
 
-- <img src="https://progress-bar.dev/50?title=feb-2024" /> -> <a href="https://www.udemy.com/share/1013hw3@mRem5gqpHDyusXjOiUn0HLIta-Ob1xdJmUbN-E8kY6se6rOJ2WXZoOwn3orIlEsQ/">Java COMPLETO Programação Orientada a Objetos + Projetos</a>
+- <img src="https://progress-bar.dev/50?title=feb-2024" /> -> <a href="https://github.com/marcossouz/java-complete-course">Java COMPLETO Programação Orientada a Objetos + Projetos</a>
 - <img src="https://progress-bar.dev/10?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/react-typescript">React e TypeScript: desenvolvendo um Dashboard</a>
 - <img src="https://progress-bar.dev/19?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/entendendo-algoritmos"> Livro: Entendendo Algoritmos</a>
 - <img src="https://progress-bar.dev/100?title=May-2022" /> -> <a href="https://github.com/marcossouz/kubernetes"> Kubernetes: Pods, Services, Configmaps, Deployments, Volumes e Escalabilidade</a> | Certificados: <a href="https://cursos.alura.com.br/certificate/5364e747-db3e-4dc5-8773-bdf1bd1fb392">Parte 1</a> | | <a href="https://cursos.alura.com.br/certificate/ad785a1c-443d-4921-868d-75f69aaaf4f5">Parte 2</a>
