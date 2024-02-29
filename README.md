@@ -87,6 +87,7 @@ When I'm not developing and programming, you can find me playing a musical instr
 - <img src="https://progress-bar.dev/79?title=feb-2024" /> -> <a href="https://github.com/marcossouz/nextjs-fastapi-docker-kubernetes">Building a devops ecosystem with a simple example application</a>
 - <img src="https://progress-bar.dev/100?title=feb-2024" /> -> <a href="https://github.com/marcossouz/foods-spring-api">Foods Api - backend da aplicação usando o framework Java Spring.</a>
 - <img src="https://progress-bar.dev/62?title=feb-2024" /> -> <a href="https://github.com/marcossouz/java-complete-course">Java COMPLETO Programação Orientada a Objetos + Projetos</a>
+- <img src="https://progress-bar.dev/100?title=feb-2023" /> -> <a href="https://github.com/marcossouz/java-complete-course">Estatística com R: frequências e medidas</a> | [certificate](https://cursos.alura.com.br/certificate/36a62a7d-831e-4c10-8117-885053f3bcfa)
 - <img src="https://progress-bar.dev/100?title=feb-2023" /> -> Graduate Degree - Software Engineering course with an emphasis on quality and software testing</a>
 - <img src="https://progress-bar.dev/10?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/react-typescript">React e TypeScript: desenvolvendo um Dashboard</a>
 - <img src="https://progress-bar.dev/19?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/entendendo-algoritmos"> Livro: Entendendo Algoritmos</a>
