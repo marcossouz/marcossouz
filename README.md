@@ -82,14 +82,14 @@ When I'm not developing and programming, you can find me playing a musical instr
 <h2>Projects and courses</h2>
 <p align="center">
 
-
 - <img src="https://progress-bar.dev/100?title=feb-2024" /> -> <a href="https://github.com/marcossouz/compose-desktop-wants-to-date-me">App Desktop with Kotlin - Wants to date me</a>
 - <img src="https://progress-bar.dev/100?title=feb-2024" /> -> <a href="https://github.com/marcossouz/kotlin-fundamentals">Kotlin Fundamentals</a>
+- <img src="https://progress-bar.dev/79?title=feb-2024" /> -> <a href="https://github.com/marcossouz/nextjs-fastapi-docker-kubernetes">Building a devops ecosystem with a simple example application</a>
 - <img src="https://progress-bar.dev/100?title=feb-2024" /> -> <a href="https://github.com/marcossouz/foods-spring-api">Foods Api - backend da aplicação usando o framework Java Spring.</a>
 - <img src="https://progress-bar.dev/62?title=feb-2024" /> -> <a href="https://github.com/marcossouz/java-complete-course">Java COMPLETO Programação Orientada a Objetos + Projetos</a>
 - <img src="https://progress-bar.dev/10?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/react-typescript">React e TypeScript: desenvolvendo um Dashboard</a>
 - <img src="https://progress-bar.dev/19?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/entendendo-algoritmos"> Livro: Entendendo Algoritmos</a>
-- <img src="https://progress-bar.dev/100?title=May-2022" /> -> <a href="https://github.com/marcossouz/kubernetes"> Kubernetes: Pods, Services, Configmaps, Deployments, Volumes e Escalabilidade</a> | Certificados: <a href="https://cursos.alura.com.br/certificate/5364e747-db3e-4dc5-8773-bdf1bd1fb392">Parte 1</a> | | <a href="https://cursos.alura.com.br/certificate/ad785a1c-443d-4921-868d-75f69aaaf4f5">Parte 2</a>
+- <img src="https://progress-bar.dev/100?title=May-2022" /> -> <a href="https://github.com/marcossouz/kubernetes"> Kubernetes: Pods, Services, Configmaps, Deployments, Volumes e Escalabilidade</a> | certificates: <a href="https://cursos.alura.com.br/certificate/5364e747-db3e-4dc5-8773-bdf1bd1fb392">Parte 1</a> | | <a href="https://cursos.alura.com.br/certificate/ad785a1c-443d-4921-868d-75f69aaaf4f5">Parte 2</a>
 - <img src="https://progress-bar.dev/100?title=abr-2022" /> -> <a href="https://github.com/marcossouz/docker-swarm"> Docker Swarm: Orquestrador de containers</a> | Certificados: <a href="https://cursos.alura.com.br/user/mrcsz-m/course/docker-criando-gerenciando-containers/certificate">Parte 1</a> | | <a href="https://cursos.alura.com.br/user/mrcsz-m/course/docker-swarm-cluster-container/certificate">Parte 2</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/microservices-fastapi">Microsserviço em Python usando FastAPI</a>
 - <img src="https://progress-bar.dev/100?title=Apr-2022" /> -> <a href="https://github.com/marcossouz/docker-kubernetes-rancher">DevOps Ninja: Docker, Kubernetes e Rancher</a> | | <a href="https://www.udemy.com/certificate/UC-c49b3724-e592-44ee-97db-26183fece69d/"> Certificado </a>
