@@ -87,6 +87,7 @@ When I'm not developing and programming, you can find me playing a musical instr
 - <img src="https://progress-bar.dev/79?title=feb-2024" /> -> <a href="https://github.com/marcossouz/nextjs-fastapi-docker-kubernetes">Building a devops ecosystem with a simple example application</a>
 - <img src="https://progress-bar.dev/100?title=feb-2024" /> -> <a href="https://github.com/marcossouz/foods-spring-api">Foods Api - backend da aplicação usando o framework Java Spring.</a>
 - <img src="https://progress-bar.dev/62?title=feb-2024" /> -> <a href="https://github.com/marcossouz/java-complete-course">Java COMPLETO Programação Orientada a Objetos + Projetos</a>
+- <img src="https://progress-bar.dev/100?title=feb-2023" /> -> Graduate Degree - Software Engineering course with an emphasis on quality and software testing</a>
 - <img src="https://progress-bar.dev/10?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/react-typescript">React e TypeScript: desenvolvendo um Dashboard</a>
 - <img src="https://progress-bar.dev/19?title=Sept-2022" /> -> <a href="https://github.com/marcossouz/entendendo-algoritmos"> Livro: Entendendo Algoritmos</a>
 - <img src="https://progress-bar.dev/100?title=May-2022" /> -> <a href="https://github.com/marcossouz/kubernetes"> Kubernetes: Pods, Services, Configmaps, Deployments, Volumes e Escalabilidade</a> | certificates: <a href="https://cursos.alura.com.br/certificate/5364e747-db3e-4dc5-8773-bdf1bd1fb392">Parte 1</a> | | <a href="https://cursos.alura.com.br/certificate/ad785a1c-443d-4921-868d-75f69aaaf4f5">Parte 2</a>
